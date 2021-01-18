@@ -4,9 +4,21 @@
 
 
 ## Back-end da aplicação
-Está versão foi desenvolvida apenas com os conhecimentos adquiridos até o momento. 
+```bash
 
-------------
+# Clone o repositório
+$ git clone https://github.com/stilljag/backend-app-marvel.git
+
+# Acesse o repositorio pelo terminal.
+$ cd backend-app-marvel
+
+# Instale as dependencias
+$ yarn 
+
+# Rode o app
+$ yarn dev
+
+```
 
 
 <div align="center" style="margin-bottom: 20px;">
