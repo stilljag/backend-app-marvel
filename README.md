@@ -1,6 +1,6 @@
 # AppMarvel
 
-![HTML](https://img.shields.io/badge/HTML-orange) ![CSS](https://img.shields.io/badge/CSS-blue) ![BOOT](https://img.shields.io/badge/BOOTSTRAP-purple) ![JS](https://img.shields.io/badge/JAVASCRIPT-yellow)  [![The MIT License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=flat-square)](http://github.com/stilljag/backend-app-marvel/blob/master/LICENSE.md)
+![HTML](https://img.shields.io/badge/HTML-orange) ![CSS](https://img.shields.io/badge/CSS-blue) ![BOOT](https://img.shields.io/badge/BOOTSTRAP-purple) ![NODEJS](https://img.shields.io/badge/NODEJS-yellow)  [![The MIT License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=flat-square)](http://github.com/stilljag/backend-app-marvel/blob/master/LICENSE.md)
 
 
 ## Back-end da aplicação
@@ -10,7 +10,7 @@ Está versão foi desenvolvida apenas com os conhecimentos adquiridos até o mom
 
 
 <div align="center" style="margin-bottom: 20px;">
-<img src=".public/assets/img1.png" alt="" width="650" height="310"/>
+<img src="src/assets/img1.png" alt="" width="650" height="310"/>
 </div>
 
 
