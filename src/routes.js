@@ -8,8 +8,8 @@ const routes = new Router();
 
 routes.use(logRequestsMiddleware);
 
-routes.get('/characters/:offset', CharacterController.show);
+routes.get('/characters', CharacterController.index);
 
-routes.get('/characters/search/:nameStartsWith', CharacterController.index);
+routes.get('/characters/:nameStartsWith', CharacterController.show);
 
 export default routes;
