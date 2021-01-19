@@ -15,6 +15,11 @@ $ cd backend-app-marvel
 # Instale as dependencias
 $ yarn 
 
+# Crie na raiz do projeto o arquivo
+$ .env
+
+# Solicite as variaveis de ambiente ao desenvolvedor
+
 # Rode o app
 $ yarn dev
 
